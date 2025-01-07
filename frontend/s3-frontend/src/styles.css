@@ -1,0 +1,21 @@
+/* Add your global styles here */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h4 {
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: #007bff !important;
+  }
+  
+  button:hover {
+    background-color: #0056b3 !important;
+  }
+  
