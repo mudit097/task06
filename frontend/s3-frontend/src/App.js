@@ -104,7 +104,7 @@ function App() {
       <footer className="team-section">
         <h2>Team T6 - Section A</h2>
         <p>
-          Mudit Mathur | Nikhil Sharma | Ishita Shah | Nisha Dubey | Gouravi Thakur
+          Mudit Mathur(20241033) | Nikhil Sharma(20241035) | Ishita Shah(20241022) | Nisha Dubey(20241036) | Gouravi Thakur(20241019)
         </p>
       </footer>
     </div>
